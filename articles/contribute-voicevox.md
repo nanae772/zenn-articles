@@ -3,7 +3,8 @@ title: "VOICEVOXにコントリビュートしてみませんか？"
 emoji: "🫛"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["VOICEVOX", "OSS"]
-published: false
+published: true
+published_at: 2025-02-25 10:00
 ---
 
 最近、ちょっと時間があったのでVOICEVOXにコントリビュート（以下、長いので貢献といいます）してみました。
